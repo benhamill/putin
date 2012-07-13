@@ -1,13 +1,13 @@
 # putin
 
-* {Homepage}[https://github.com/benhamill/putin#readme]
-* {Issues}[https://github.com/benhamill/putin/issues]
-* {Documentation}[http://rubydoc.info/gems/putin/frames]
-* {Email}[mailto:ben at benhamill.com]
+* [Homepage](https://github.com/benhamill/putin#readme)
+* [Issues](https://github.com/benhamill/putin/issues)
+* [Documentation](http://rubydoc.info/gems/putin/frames)
+* [Email](mailto:ben at benhamill.com)
 
 ## Description
 
-TODO: Description
+Putin is a pry-based way to get a development console into your project.
 
 ## Features
 

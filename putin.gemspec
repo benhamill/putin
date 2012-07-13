@@ -4,9 +4,9 @@ require File.expand_path('../lib/putin/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name          = "putin"
-  gem.version       = Putin::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.version       = Putin.version
+  gem.summary       = "Putin is a pry-based way to get a development console into your project."
+  gem.description   = "Putin is a pry-based way to get a development console into your project."
   gem.license       = "MIT"
   gem.authors       = ["Ben Hamill"]
   gem.email         = "ben@benhamill.com"
