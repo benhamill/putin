@@ -1,27 +1,27 @@
-= putin
+# putin
 
 * {Homepage}[https://github.com/benhamill/putin#readme]
 * {Issues}[https://github.com/benhamill/putin/issues]
 * {Documentation}[http://rubydoc.info/gems/putin/frames]
 * {Email}[mailto:ben at benhamill.com]
 
-== Description
+## Description
 
 TODO: Description
 
-== Features
+## Features
 
-== Examples
+## Examples
 
   require 'putin'
 
-== Requirements
+## Requirements
 
-== Install
+## Install
 
   $ gem install putin
 
-== Copyright
+## Copyright
 
 Copyright (c) 2012 Ben Hamill
 
